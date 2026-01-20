@@ -42,8 +42,8 @@ const styles = {
     padding: "15px",
     backgroundColor: "#9b0c0c",
     position: "fixed",
-    top: 0,p
-    width: "100%",
+    top: 0,
+    width:"100%",
   },
   btn: {
     padding: "8px 15px",
